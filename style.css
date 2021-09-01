@@ -1,0 +1,19 @@
+body{
+background-color: lightblue;
+
+
+}
+.button{
+	font-size: 24px;
+	color: yellow;
+	font-family: algerian;
+	background: yellow;
+
+
+	border-style: solid;
+	border-color: blue;
+}
+.box{
+	color: grey;
+	background-color:white;
+}
